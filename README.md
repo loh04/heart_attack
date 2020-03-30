@@ -15,6 +15,7 @@ This trained model was then saved as a pickle file so as to be used later on.
 
 The frontend was done using Django, where the user can enter his respected details and the output screen was generated based on the output ie. whether the user has the chance of getting a heart stroke or not.
 
+
 ## How to run this
 
 1. Clone or download this repository.
@@ -23,3 +24,6 @@ The frontend was done using Django, where the user can enter his respected detai
 4. In terminal, run -- python manage.py runserver.
 5. Open the given local site
 6. Fill the details and you will have your result.
+
+
+If you want to have a look at the code for training the algorithm, open main.py .
