@@ -4,6 +4,7 @@ Heart attacks are a major problem in and around the world. We have desinged an a
 
 We had taken a dataset from Kaggle which is rated 9/10 and was very much suitable to use for this purpose. 
 
+hearattach.png
 
 The problem we intend to solve with this is reducing the costs of checkups for the commo man as he/she isn't able to afford these types of checkups.
 
