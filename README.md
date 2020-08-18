@@ -1,5 +1,7 @@
 # Heart Attack Prediction using Machine Learning 
 
+This repo is a basic repo for heart attack prediction using random forest.
+
 Heart attacks are a major problem in and around the world. We have desinged an application that checks whether the person has the probablitly of having a heart attack by measuring various quantities such as age, gender, blood pressure, cholestrol levels.  
 
 We had taken a dataset from Kaggle which is rated 9/10 and was very much suitable to use for this purpose. 
