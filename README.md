@@ -10,7 +10,7 @@ We had taken a dataset from Kaggle which is rated 9/10 and was very much suitabl
 
 The problem we intend to solve with this is reducing the costs of checkups for the commo man as he/she isn't able to afford these types of checkups.
 
-The data was cleaned and made ready for training. The model was initially trained using Logistic Regression and various other algorithms which were imported from the "sklearn" library. 
+The data was cleaned and made ready for training. The model was initially trained using Logistic Regression and various other algorithms which were imported from the sklearn" library. 
 
 In the end we decied to use Random Forest Regression as it lead to the increase in overall output of the model. About 85%.
 
